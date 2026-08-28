@@ -1,0 +1,26 @@
+{
+  "name": "innov8_technical_documentation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "docs:dev": "vitepress dev paws",
+  "docs:build": "vitepress build paws",
+  "docs:preview": "vitepress preview paws"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akirachix/Innov8_Technical_Documentation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/akirachix/Innov8_Technical_Documentation/issues"
+  },
+  "homepage": "https://github.com/akirachix/Innov8_Technical_Documentation#readme",
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
