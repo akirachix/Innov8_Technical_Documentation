@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   base: '/PAWS-Technical-Documentation/',
-  title: 'PAWS Technical Documentation',
+  title: 'PAWS Technical Doc',
   description: 'Predictive Alert & Wildlife Sentinel',
   lang: 'en',
   cleanUrls: true,
