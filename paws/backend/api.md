@@ -51,6 +51,5 @@ curl -H "Authorization: Bearer <token>" \
 }
 ```
 
-> The response above is a documentation example, not a claim about the implemented schema.
 
-**TODO / VERIFY:** generate the endpoint list and schemas from the actual backend.
+

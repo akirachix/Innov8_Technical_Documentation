@@ -9,9 +9,9 @@ hero:
     src: /paws-logo.png
     alt: PAWS logo
   actions:
-    - theme: brand
-      text: Get Started
-      link: /getting-started/
+    
+  
+    
     - theme: alt
       text: How It Works
       link: /architecture/
@@ -112,6 +112,12 @@ to help address human–wildlife conflict.
 
 <div class="paws-team">
 
+  <div class="paws-team-photo">
+    <img
+      src="/team.png"
+      alt="PAWS project team"
+    />
+  </div>
 
   <div class="paws-team-intro">
 
